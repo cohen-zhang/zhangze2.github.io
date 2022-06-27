@@ -11,7 +11,18 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# 序言 1
+
+> > 锄禾日当午，Coding 也辛苦;
+> 
+> 
+> 你写的每一行代码，都是你的名片
+> 
+> keep Moving , Keep Coding 
+> 
+> No Coding No Future 
+>
+
 ## Header 2
 ### Header 3
 
