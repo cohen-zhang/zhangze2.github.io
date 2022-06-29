@@ -19,6 +19,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 > No Coding No Future 
 >
 
+## 这是一本什么样的书？
+
+不仅仅是一本书。是关注（关心）程序猿的一段生命周期，是工程思维、是极客文化。甚至讨论程序猿加班通宵的睡眠问题。
+
+通过 抖音  +  书 + 社群(讨论+学习学习再学习)  +  建立影响力。
+
 
 ```markdown
 Syntax highlighted code block
