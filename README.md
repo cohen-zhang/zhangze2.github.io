@@ -25,6 +25,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 通过 抖音  +  书 + 社群(讨论+学习学习再学习)  +  建立影响力。
 
+todo: List 集合操作合集
 
 ```markdown
 Syntax highlighted code block
