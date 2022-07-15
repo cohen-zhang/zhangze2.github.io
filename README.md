@@ -46,7 +46,7 @@ List 对象交集，转换
 - 第一篇抖音逐字稿：从一个 http 请求说起
 - Cron 表达式
 - Jdbc 原理
-
+- 使用 guave 实现
 
 1. Numbered
 2. List
