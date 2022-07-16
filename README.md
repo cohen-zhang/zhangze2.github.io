@@ -43,10 +43,11 @@ List 对象交集，转换
 - Arthas 🔥热部署
 - 分布式锁
 - 加密算法： MD5 / AES
-- 第一篇抖音逐字稿：从一个 http 请求说起
+- 主播排期：第一篇抖音逐字稿：从一个 http 请求说起/怎么搬砖快点？
 - Cron 表达式
 - Jdbc 原理
 - 使用 guave 实现
+
 
 1. Numbered
 2. List
