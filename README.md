@@ -41,6 +41,7 @@ List 对象交集，转换
 
 ### todo 
 - 做难而正确的事情
+- JVM 笔记分享
 - 整合微博、微信、Twitter 账号
 - jekyllrb 使用
 - 第一篇抖音逐字稿：从一个 http 请求说起/怎么搬砖快点？
@@ -52,7 +53,6 @@ List 对象交集，转换
 - Cron 表达式
 - Jdbc 连接池原理！！！
 - 使用 guave 实现
-- JVM 笔记分享
 
 
 1. Numbered
