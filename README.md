@@ -17,7 +17,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 > keep Moving , Keep Coding 
 > 
 > No Coding No Future 
->
+> 高级工程师：用更少的能量处理更多的问题
 
 ## 这是一本什么样的书？
 
